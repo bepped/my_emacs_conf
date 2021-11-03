@@ -6,7 +6,7 @@
 
 ;;(menu-bar-mode -1)        ; Disable menu bar
 
-(setqbackup-directory-alist '(("." . "~/.saves")))
+(setq backup-directory-alist '(("." . "~/.saves")))
 (column-number-mode 1)
 
 (setq visible-bell t)
